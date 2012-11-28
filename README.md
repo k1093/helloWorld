@@ -4,6 +4,8 @@ helloWorld
 helloWorld program in C#.
 
 Use this sample program together with TFS online(cloud) and visual studio
+Take Advantage of TFS in the Cloud. See how easy it is to manage and test your agile project
+
 
 It's pretty straightforward:
 
